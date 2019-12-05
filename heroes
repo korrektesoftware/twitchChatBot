@@ -1,0 +1,181 @@
+Name; Class; Speciality; Skill1; Skill2; Spell
+Corkes; Captain; Offense; Basic Offense; Basic Pathfinding; -
+Jeremy; Captain; Cannon; Basic Offense; Basic Artillery; -
+Illor; Captain; Stormbirds; Basic Armorer; Basic Tactics; -
+Derek; Captain; Crew Mates; Basic Offense; Basic Leadership; -
+Elmore; Captain; Navigation; Advanced Navigation; - ; -
+Leena; Captain; Gold; Basic Pathfinding; Basic Estates; -
+Anabel; Captain; Pirates; Basic Offense; Basic Archery; -
+Cassiopeia; Captain; Nymphs; Basic Offense; Basic Tactics; -
+Miriam; Captain; Scouting; Basic Logistics; Basic Scouting; -
+Bidley; Captain; Sea Dogs; Advanced Offense; - ; -
+Tark; Captain; Nix; Basic Offense; Basic Armorer; -
+Casmetra; Navigator; Sea Witches; Basic Wisdom; Basic Water Magic; Dispel
+Eovacius; Navigator; Clone; Basic Wisdom; Basic Intelligence; Clone
+Spint; Navigator; Sorcery; Basic Wisdom; Basic Sorcery; Bless
+Andal; Navigator; Crystal; Basic Wisdom; Basic Pathfinding; Slow
+Manfred; Navigator; Fireball; Basic Wisdom; Basic Fire Magic; Fireball
+Zilare; Navigator; Forgetfulness; Basic Wisdom; Basic Resistance; Forgetfulness
+Astra; Navigator; Cure; Basic Wisdom; Basic Luck; Cure
+Dargem; Navigator; Air Shield; Basic Wisdom; Basic Tactics; Air Shield
+Christian; Knight; Ballista; Basic Leadership; Basic Artillery; -
+Edric; Knight; Griffins; Basic Leadership; Basic Armorer; -
+Orrin; Knight; Archery; Basic Leadership; Basic Archery; -
+Sylvia; Knight; Navigation; Basic Leadership; Basic Navigation; -
+Valeska; Knight; Archers; Basic Leadership; Basic Archery; -
+Sorsha; Knight; Swordsmen; Basic Leadership; Basic Offense; -
+Tyris; Knight; Cavaliers; Basic Leadership; Basic Tactics; -
+Lort Haart; Knight; Estates; Basic Leadership; Basic Estates; -
+Catherine; Knight; Swordsmen; Basic Leadership; Basic Offense; -
+Roland; Knight; Swordsmen; Basic Leadership; Basic Armorer; -
+Sir Mullich; Knight; Speed; Advanced Leadership; - ; -
+Beatrice; Knight; Scouting; Basic Leadership; Basic Scouting; -
+
+Adela; Cleric; Bless; Basic Wisdom; Basic Diplomacy; Bless
+Adelaide; Cleric; Frost Ring; Advanced Wisdom; - ; Frost Ring
+Caitlin; Cleric; Gold; Basic Wisdom; Basic Intelligence; Cure
+Cuthbert; Cleric; Weakness; Basic Wisdom; Basic Estates; Weakness
+Ingham; Cleric; Monks; Basic Wisdom; Basic Mysticism; Curse
+Loynis; Cleric; Prayer; Basic Wisdom; Basic Learning; Prayer
+Rion; Cleric; First Aid; Basic Wisdom; Basic First Aid; Stone Skin
+Sanya; Cleric; Eagle Eye; Basic Wisdom; Basic Eagle Eye; Dispel
+Jenova; Ranger; Gold; Advanced Archery; - ; -
+Kyrre; Ranger; Logistics; Basic Archery; Basic Logistics; -
+Ivor; Ranger; Elves; Basic Archery; Basic Offense; -
+Ufretin; Ranger; Dwarves; Basic Resistance; Basic Luck; -
+Clancy; Ranger; Unicorns; Basic Resistance; Basic Pathfinding; -
+Thorgrim; Ranger; Resistance; Advanced Resistance; - ; -
+Ryland; Ranger; Dendroids; Basic Leadership; Basic Diplomacy; -
+Mephala; Ranger; Armorer; Basic Leadership; Basic Armorer; -
+Gelu; Ranger; Sharpshooters; Basic Archery; Basic Leadership; -
+Aeris; Druid; Pegasi; Basic Wisdom; Basic Scouting; Protection from Air
+Alagar; Druid; Ice Bolt; Basic Wisdom; Basic Sorcery; Ice Bolt
+Coronius; Druid; Slayer; Basic Wisdom; Basic Scholar; Slayer
+Elleshar; Druid; Intelligence; Basic Wisdom; Basic Intelligence; Curse
+Malcom; Druid; Eagle Eye; Basic Wisdom; Basic Eagle Eye; Magic Arrow
+Melodia; Druid; Fortune; Basic Wisdom; Basic Luck; Fortune
+Gem; Druid; First Aid; Basic Wisdom; Basic First Aid; Summon Boat
+Uland; Druid; Cure; Basic Wisdom; Basic Ballisicts; Cure
+Fafner; Alchemist; Nagas, Basic Scholar; Basic Resistance; Haste
+Iona; Alchemist; Genies; Basic Scholar, Basic Intelligence; Magic Arrow
+Josephine; Alchemist; Golems; Basic Mysticism; Basic Sorcery; Haste
+Neela; Alchemist; Armorer; Basic Armorer; Basic Scholar; Shield
+Piquedram; Alchemist; Gargoyles; Basic Mysticism; Basic Scouting; Shield
+Rissa; Alchemist; Mercury; Basic Mysticism; Basic Offense; Magic Arrow
+Thane; Alchemist; Genies; Advanced Scholar; - ; Magic Arrow
+Torosar; Alchemist; Ballista;; Basic Mysticism; Basic Tactics; Magic Arrow
+Aine; Wizard; Gold; Basic Wisdom; Basic Scholar; Curse
+Astral; Wizard; Hypnotize; Advanced Wisdom; - ; Hypnotize
+Cyra; Wizard; Haste; Basic Wisdom; Basic Diplomacy; Haste
+Daremyth; Wizard; Fortune; Basic Wisdom; Basic Intelligence; Fortune
+Halon; Wizard; Mysticism; Basic Wisdom; Basic Mysticism; Stone Skin
+Serena; Wizard; Eagle Eye; Basic Wisdom; Basic Eagle Eye; Dispel
+Solmyr; Wizard; Chain Lightning; Basic Wisdom; Basic Sorcery; Chain Lightning
+Theodorus; Wizard; Magi; Basic Wisdom; Basic Ballisicts; Shield
+Dracon; Wizard; Enchanters; Advanced Wisdom; - ; Haste
+Calh; Demoniac; Gogs; Basic Archery; Basic Scouting; -
+Fiona; Demoniac; Hell Hounds; Advanced Scouting; - ; -
+Ignatius; Demoniac; Imps; Basic Tactics; Basic Resistance; -
+Marius; Demoniac; Demons; Advanced Armorer; - ; -
+Nymus; Demoniac; Pit Fiends; Advanced Offense; - ; -
+Octavia; Demoniac; Gold; Basic Scholar; Basic Offense; -
+Pyre; Demoniac; Ballista; Basic Logistics; Basic Artillery; -
+Rashka; Demoniac; Efreeti; Basic Wisdom; Basic Scholar; -
+Xeron; Demoniac; Devils; Basic Leadership; Basic Tactics; -
+Ash; Heretic; Bloodlust; Basic Wisdom; Basic Eagle Eye; Bloodlust
+Axsis; Heretic; Mysticism; Basic Wisdom; Basic Mysticism; Protection from Air
+Ayden; Heretic; Intelligence; Basic Wisdom; Basic Intelligence; View Air
+Calid; Heretic; Sulfur; Basic Wisdom; Basic Learning; Haste
+Olema; Heretic; Weakness; Basic Wisdom; Basic Ballisicts; Weakness
+Xyron; Heretic; Inferno (spell); Basic Wisdom; Basic Scholar; Inferno
+Xarfax; Heretic; Fireball; Basic Wisdom; Basic Leadership; Fireball
+Zydar; Heretic; Sorcery; Basic Wisdom; Basic Sorcery; Stone Skin
+Charna; Death Knight; Wights; Basic Necromancy; Basic Tactics, Magic Arrow
+Clavius; Death Knight; Gold; Basic Necromancy; Basic Offense, Magic Arrow
+Galthran; Death Knight; Skeletons; Basic Necromancy; Basic Armorer; Shield
+Isra; Death Knight; Necromancy; Advanced Necromancy; - ; Magic Arrow
+Moandor; Death Knight; Liches; Basic Necromancy; Basic Learning; Slow
+Straker; Death Knight; Walking Dead; Basic Necromancy; Basic Resistance; Haste
+Tamika; Death Knight; Black Knights; Basic Necromancy; Basic Offense; Magic Arrow
+Vokial; Death Knight; Vampires; Basic Necromancy; Basic Artillery; Stone Skin
+Haart Lich; Death Knight; Black Knights; Advanced Necromancy; - ; Slow
+Ranloo; Death Knight; Ballista; Basic Necromancy; Basic Artillery; Haste
+Aislinn; Necromancer; Meteor Shower; Basic Necromancy; Basic Wisdom; Meteor Shower
+Nagash; Necromancer; Gold; Basic Necromancy; Basic Intelligence; Protection from Air
+Nimbus; Necromancer; Eagle Eye; Basic Necromancy; Basic Eagle Eye; Shield
+Sandro; Necromancer; Sorcery; Basic Necromancy; Basic Sorcery; Slow
+Septienna; Necromancer; Death Ripple; Basic Necromancy; Basic Scholar; Death Ripple
+Thant; Necromancer; Animate Dead; Basic Necromancy; Basic Mysticism; Animate Dead
+Vidomina; Necromancer; Necromancy; Advanced Necromancy; - ; Curse
+Xsi; Necromancer; Stone Skin; Basic Necromancy; Basic Learning; Stone Skin
+Ajit; Overlord; Beholders; Basic Leadership; Basic Resistance; -
+Arlach; Overlord; Ballista; Basic Offense; Basic Artillery; -
+Dace; Overlord; Minotaurs; Basic Offense; Basic Tactics; -
+Damacon; Overlord; Gold; Advanced Offense; - ; -
+Gunnar; Overlord; Logistics; Basic Tactics; Basic Logistics; -
+Lorelei; Overlord; Harpies; Basic Leadership; Basic Scouting; -
+Shakti; Overlord; Troglodytes; Basic Offense; Basic Tactics; -
+Sycna; Overlord; Manticores; Basic Leadership; Basic Scholar; -
+Mutare; Overlord; Dragons; Basic Estates; Basic Tactics; -
+Mutare Drake; Overlord; Dragons; Basic Estates; Basic Tactics; -
+Alamar; Warlock; Ressurection; Basic Wisdom; Basic Scholar; Ressurection
+Darkstorn; Warlock; Stone Skin; Basic Wisdom; Basic Learning; Stone Skin
+Deemer; Warlock; Meteor Shower; Basic Wisdom; ; Basic Scouting; Meteor Shower
+Geon; Warlock; Eagle Eye; Basic Wisdom; Basic Eagle Eye; Slow
+Jaegar; Warlock; Mysticism; Basic Wisdom; Basic Mysticism; Shield
+Jeddite; Warlock; Ressurection; Advanced Wisdom; - ; Ressurection
+Malekith; Warlock; Sorcery; Basic Wisdom; Basic Sorc; Bloodlust
+Sephinroth; Warlock; Crystal; Basic Wisdom; Basic Intelligence; Protection from Air
+Crag Hack; Barbarian; Offense; Advanced Offense; - ; -
+Gretchin; Barbarian; Goblins; Basic Offense; Basic Pathfinding; -
+Gurnisson; Barbarian; Ballista; Basic Offense; Basic Artillery; -
+Jabarkas; Barbarian; Orcs; Basic Offense; Basic Archery; -
+Krellion; Barbarian; Ogres; Basic Offense; Basic Resistance; -
+Shiva; Barbarian; Rocs; Basic Offense; Basic Scouting; -
+Tyraxor; Barbarian; Wolf Riders; Basic Offense; Basic Tactics; -
+Yog; Barbarian; Cyclops; Basic Offense; Basic Ballistics; -
+Boragus; Barbarian; Ogres; Basic Offense; Basic Tactics; -
+Kilgor; Barbarian; Behemoths; Advanced Offense; - ; - 
+Dessa; Battle Mage; Logistics; Basic Wisdom; Basics Logistics; Stone Skin
+Gird; Battle Mage; Sorcery; Basic Wisdom; Basics Sorcery; Bloodlust
+Gundula; Battle Mage; Offense; Basic Wisdom; Basics Offense; Slow
+Oris; Battle Mage; Eagle Eye; Basic Wisdom; Basics Eagle Eye; Protection from Air
+Saurug; Battle Mage; Gems; Basic Wisdom; Basics Resistance; Bloodlust
+Terek; Battle Mage; Haste; Basic Wisdom; Basics Tactics; Haste
+Vey; Battle Mage; Ogre; Basic Wisdom; Basics Leadership; Magic Arrow
+Zubin; Battle Mage; Precision; Basic Wisdom; Basics Artillery; Precision
+Alkin; Beastmaster; Gorgons; Basic Armorer; Basic Offense; -
+Broghild; Beastmaster; Wyverns; Basic Armorer; Basic Scouting; -
+Bron; Beastmaster; Basilisks; Basic Armorer; Basic Leadership; -
+Drakon; Beastmaster; Gnolls; Basic Armorer; Basic Leadership; -
+Gerwulf; Beastmaster; Ballista; Basic Armorer; Basic Artillery; -
+Korbac; Beastmaster; Serpent Flies; Basic Armorer; Basic Pathfinding; -
+Tazar; Beastmaster; Armorer; Advanced Armorer; - ; -
+Wystan; Beastmaster; Lizardmen; Basic Armorer; Basic Archery; -
+Andra; Witch; Intelligence; Basic Wisdom; Basic Intelligence; Dispel
+Merist; Witch; Stone Skin; Basic Wisdom; Basic Learning; Stone Skin
+Mirlanda; Witch; Weakness; Advanced Wisdom; - ; Weakness
+Rosic; Witch; Mysticism; Basic Wisdom; Basic Mysticism; Magic Arrow
+Styg; Witch; Sorcery; Basic Wisdom; Basic Sorcery; Shield
+Tiva; Witch; Eagle Eye; Basic Wisdom; Basic Eagle Eye; Stone Skin
+Verdish; Witch; First Aid; Basic Wisdom; Basic First Aid; Protection from Fire
+Voy; Witch; Navigation; Basic Wisdom; Basic Navigation; Slow
+Adrienne; Witch; Fire Magic; Basic Wisdom; Expert Fire Magic; Inferno
+Kinkeria; Witch; Learning; Basic Wisdom; Basic Learning; Slow
+Erdamon; Planeswalker; Earth Elementals; Basic Tactics; Basic Estates; -
+Fiur; Planeswalker; Fire Elementals; Advanced Offense; - ; -
+Ignissa; Planeswalker; Fire Elementals; Basic Offense; Basic Artillery -
+Kalt; Planeswalker; Water Elemetals; Basic Tactics; Basic Learning; -
+Lacus; Planeswalker; Water Elemetals; Advanced Tactics; - ; -
+Monere; Planeswalker; Psychic Elementals; Basic Offense; Basic Logistics; -
+Pasis; Planeswalker; Psychic Elementals; Basic Offense; Basic Artillery; -
+Thunar; Planeswalker; Earth Elementals; Basic Tactics; Basic Estates; -
+Aenain; Elementalist; Disrupting Ray; Basic Wisdom; Basic Air Magic; Disrupting Ray
+Brissa; Elementalist; Haste; Basic Wisdom; Basic Air Magic; Haste
+Ciele; Elementalist; Magic Arrow; Basic Wisdom; Basic Water Magic; Magic Arrow
+Gelare; Elementalist; Gold; Basic Wisdom; Basic Water Magic; Dispel
+Grindan; Elementalist; Gold; Basic Wisdom; Basic Earth Magic; Slow
+Inteus; Elementalist; Bloodlust; Basic Wisdom; Basic Fire Magic; Bloodlust
+Labetha; Elementalist; Stone Sking; Basic Wisdom; Basic Earth Magic; Stone Skin
+Luna; Elementalist; Fire Wall; Basic Wisdom; Basic Fire Magic; Fire Wall
+
