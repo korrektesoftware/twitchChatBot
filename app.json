@@ -1,0 +1,7 @@
+{"name": "bot",
+"description":"bot desc",
+"repository":"https://github.com/korrektesoftware/twitchChatBot.git",
+"logo":"http://node-js-sample.herokuapp.com/node.svg",
+"keywords":["node", "express", "static"],
+"image" :"heroku/nodejs"
+}
