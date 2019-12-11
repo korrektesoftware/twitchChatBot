@@ -20,7 +20,7 @@ const options = {
 const client = new tmi.client(options);
 client.connect();
 client.on('connected', (address, port) => {
-   // client.action('h3info', "h3info-Bot aktiv!")
+    client.action('h3info', "h3info-Bot aktiv!")
 });
 
 client.on('chat', (channel, user, message, self) => {
@@ -43,7 +43,6 @@ client.on('chat', (channel, user, message, self) => {
         client.action('h3info', JSON.stringify(body.spec));
         });
     }
-})
 
 var heroes = [
   {
@@ -1248,7 +1247,7 @@ var heroes = [
   },
   {
     "Name": "Tazar",
-    "Class": "yyy-Beastmaster",
+    "Class": "zzz-Beastmaster",
     "Speciality": "Armorer",
     "Skill1": "Advanced Armorer",
     "Skill2": "-",
@@ -1471,3 +1470,4 @@ var heroes = [
     "Spell": "Fire Wall"
   }
 ]
+})
