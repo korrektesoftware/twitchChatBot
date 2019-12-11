@@ -1248,7 +1248,7 @@ var heroes = [
   },
   {
     "Name": "Tazar",
-    "Class": "xxx-Beastmaster",
+    "Class": "yyy-Beastmaster",
     "Speciality": "Armorer",
     "Skill1": "Advanced Armorer",
     "Skill2": "-",
