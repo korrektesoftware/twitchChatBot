@@ -1,49 +1,3 @@
-const tmi = require('tmi.js');
-const Request = require("request");
-var _ = require('lodash');
-
-const options = {
-    options: {
-        debug: true,
-    },
-    conntection: {
-        cluster: 'aws',
-        reconnect: true
-    },
-    identity: {
-        username: 'h3info',
-        password: 'oauth:3xr9nsoqq5woupkebqfzw6b7b96eks'
-    },
-    channels: ['h3info', 'RitoSux', 'Lexiav', 'Haze_Tech', 'Thexenofex']
-};
-
-const client = new tmi.client(options);
-client.connect();
-client.on('connected', (address, port) => {
-    client.action('h3info', "h3info-Bot aktiv!")
-});
-
-client.on('chat', (channel, user, message, self) => {
-    
-    var msg = message.substr(1)
-    console.log(_.find(heroes, {'Name': msg}) == undefined);
-    if (_.find(heroes, {'Name': msg}) != undefined)
-    {
-        var x = _.find(heroes, {'Name' : msg})
-        client.action(channel, 
-        JSON.stringify(x.Name + ": " + x.Class + " | " + x.Speciality + " | " + x.Skill1  + " | " + x.Skill2  + " | " + x.Spell ))
-
-    
-    }
-    else if (message=='!Valeska23421421341241241234') {
-        //https://cranky-bose-97b953.netlify.com/.netlify/functions/api/Valeska
-        //http://localhost:9000/.netlify/functions/api/Valeska
-        Request('https://cranky-bose-97b953.netlify.com/.netlify/functions/api/Valeska', { json: true }, (err, res, body) => {
-        if (err) { return console.log("Uwe: " + err); }
-        client.action('h3info', JSON.stringify(body.spec));
-        });
-    }
-
 var heroes = [
   {
     "Name": "Corkes",
@@ -1247,7 +1201,7 @@ var heroes = [
   },
   {
     "Name": "Tazar",
-    "Class": "zzz-Beastmaster",
+    "Class": "Beastmaster",
     "Speciality": "Armorer",
     "Skill1": "Advanced Armorer",
     "Skill2": "-",
@@ -1470,4 +1424,51 @@ var heroes = [
     "Spell": "Fire Wall"
   }
 ]
+const tmi = require('tmi.js');
+const Request = require("request");
+var _ = require('lodash');
+
+const options = {
+    options: {
+        debug: true,
+    },
+    conntection: {
+        cluster: 'aws',
+        reconnect: true
+    },
+    identity: {
+        username: 'h3info',
+        password: 'oauth:3xr9nsoqq5woupkebqfzw6b7b96eks'
+    },
+    channels: ['h3info', 'RitoSux', 'Lexiav', 'Haze_Tech', 'Thexenofex']
+};
+
+const client = new tmi.client(options);
+client.connect();
+client.on('connected', (address, port) => {
+    client.action('h3info', "h3info-Bot aktiv!")
+});
+
+client.on('chat', (channel, user, message, self) => {
+    
+    var msg = message.substr(1)
+    console.log(_.find(heroes, {'Name': msg}) == undefined);
+    if (_.find(heroes, {'Name': msg}) != undefined)
+    {
+        var x = _.find(heroes, {'Name' : msg})
+        client.action(channel, 
+        JSON.stringify(x.Name + ": " + x.Class + " | " + x.Speciality + " | " + x.Skill1  + " | " + x.Skill2  + " | " + x.Spell ))
+
+    
+    }
+    else if (message=='!Valeska23421421341241241234') {
+        //https://cranky-bose-97b953.netlify.com/.netlify/functions/api/Valeska
+        //http://localhost:9000/.netlify/functions/api/Valeska
+        Request('https://cranky-bose-97b953.netlify.com/.netlify/functions/api/Valeska', { json: true }, (err, res, body) => {
+        if (err) { return console.log("Uwe: " + err); }
+        client.action('h3info', JSON.stringify(body.spec));
+        });
+    }
+
+
 })
