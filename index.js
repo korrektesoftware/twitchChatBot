@@ -1440,7 +1440,7 @@ const options = {
         username: 'h3info',
         password: 'oauth:3xr9nsoqq5woupkebqfzw6b7b96eks'
     },
-    channels: ['h3info', 'RitoSux', 'Lexiav', 'Haze_Tech', 'Thexenofex']
+    channels: ['h3info', 'RitoSux', 'Lexiav', 'Haze_Tech', 'Thexenofex', 'TheKnownWorld']
 };
 
 const client = new tmi.client(options);
